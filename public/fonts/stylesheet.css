@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Euclid Square";
+  src: local("Euclid Square Regular"), local("EuclidSquareRegular"),
+    url("EuclidSquareRegular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Euclid Square";
+  src: local("Euclid Square Medium"), local("EuclidSquareMedium"),
+    url("EuclidSquareMedium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Euclid Square";
+  src: local("Euclid Square Bold"), local("EuclidSquareBold"),
+    url("EuclidSquareBold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
